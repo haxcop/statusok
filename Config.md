@@ -8,9 +8,9 @@ Config file should be in JSON format (Support for other formats will be added in
 "notification":{
 	//notification clients to send notifications
 	"slack":{
-		"channel":"#general",
+		"channel":"#iot-system-status",
 		"username":"statusok",
-		"channelWebhookURL":"https://hooks.slack.com/services/T09SF8/E5Tl7"
+		"channelWebhookURL":"https://hooks.slack.com/services/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"
 	}
 },
 "database":{
